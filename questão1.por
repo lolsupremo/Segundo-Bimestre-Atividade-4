@@ -9,12 +9,22 @@ programa
 		
 		escreva(contagem, "\n")
 		contagem++
-		
-		se (contagem == 21){
-			pare
+
 		}
-		
-		
+		 
+	}
+}
+
+//Letra B
+
+programa
+{
+	
+	funcao inicio()
+	{
+
+		para(inteiro i = 1; i < 21; i++){
+			escreva(i, "\n")
 		}
 		 
 	}
