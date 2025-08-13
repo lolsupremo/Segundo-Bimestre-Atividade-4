@@ -2,10 +2,10 @@ programa
 {
 	funcao inicio()
 	{
-		inteiro numeros[1000], repeticoes, soma = 0
+		inteiro numeros[10000], repeticoes, soma = 0
 		inteiro menor, maior
 
-		escreva("Quantos números você quer informar? (máximo 100) ")
+		escreva("Quantos números você quer informar?")
 		leia(repeticoes)
 
 		escreva("Número 1: ")
